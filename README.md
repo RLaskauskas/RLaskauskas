@@ -7,4 +7,4 @@ This is the profile of Rimantas Laskauskas. :) I am currently working as a Senio
 - Python (Pandas)
 - Tableau
 
-I am currently actively seeking a junior data analyst position where I could utilize the skills I have acquired and contribute meaningfully to the team's success.
+I am currently actively seeking a data analyst position where I could utilize the skills I have acquired and contribute meaningfully to the team's success.

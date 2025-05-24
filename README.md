@@ -6,6 +6,6 @@ This is the profile of Rimantas Laskauskas. :) I am currently working as a Senio
 - SQL
 - Python (Pandas)
 - Tableau
-- Power Bi
+- Power BI
 
 I am currently actively seeking a data analyst position where I could utilize the skills I have acquired and contribute meaningfully to the team's success.
